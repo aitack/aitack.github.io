@@ -1,0 +1,104 @@
+
+<!DOCTYPE html>
+<html lang="ja">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <link rel="stylesheet" href="css/mosya-01-26.css" />
+    <link rel="stylesheet" href="css/mosya-01-26-2.css" />
+    <title>mosyarensyu</title>
+  </head>
+  <body>
+    <header>
+      <div class="container">
+        <div class="header-left">
+          <img src="png/logo.JPG" alt="" class="logo" />
+        </div>
+
+        <span class="fa fa-bars menu-icon"></span>
+
+        <div class="header-right">
+          <a href="#">レッスン</a>
+          <a href="#">新規登録</a>
+          <a href="#" class="login">ログイン</a>
+        </div>
+      </div>
+    </header>
+    <div class="top-wrapper">
+      <div class="container">
+        <h1>LEARN TO CODE.<br />LEARN TO BE CREATIVE.</h1>
+        <p>demodemodemodemodemodemo<br />demodemodemodemodemo</p>
+        <div class="btn-wrapper">
+          <a href="#" class="btn signup">新規登録はこちら</a>
+          <p>or</p>
+          <a href="#" class="btn facebook"
+            ><span class="fa fa-facebook"></span>Facebookで登録</a
+          >
+          <a href="#" class="btn twitter"
+            ><span class="fa fa-twitter"></span>Twitterで登録</a
+          >
+        </div>
+      </div>
+    </div>
+    <div class="lesson-wrapper">
+      <div class="container-2">
+        <div class="heading">
+          <h2>Learn Where to Get Started!!</h2>
+        </div>
+        <div class="lessons">
+          <div class="lesson">
+            <div class="lesson-icon">
+              <img src="png/logo.JPG" alt="" />
+              <p>Logo</p>
+            </div>
+            <p class="text-contents">テストテストテスト</p>
+          </div>
+
+	 <div class="lesson">
+            <div class="lesson-icon">
+              <img src="png/logo.JPG" alt="" />
+              <p>logo</p>
+            </div>
+	<p class="text-contents">testtesttest</p>
+          </div>
+
+          <div class="lesson">
+            <div class="lesson-icon">
+              <img src="png/logo.JPG" alt="" />
+              <p>logodayo</p>
+            </div>
+            <p class="text-contents">testtesttest</p>
+          </div>
+
+          <div class="lesson">
+            <div class="lesson-icon">
+              <img src="png/logo.JPG" alt="" />
+              <p>javajavajava</p>
+            </div>
+            <p class="text-contents">javajavajava</p>
+          </div>
+        </div>
+
+        <div class="clear"></div>
+      </div>
+    </div>
+
+    <div class="message-wrapper">
+      <div class="container">
+        <div class="heading">
+          <h2>demodemodemo</h2>
+          <h3>demodemodemo</h3>
+        </div>
+        <span class="btn message">早速開発する</span>
+      </div>
+    </div>
+
+    <footer>
+      <div class="container">
+        <img src="png/logo.JPG" alt="" />
+        <p>Learn to code, Learn to be Creative.</p>
+      </div>
+    </footer>
+  </body>
+</html>
