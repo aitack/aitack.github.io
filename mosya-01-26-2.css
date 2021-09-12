@@ -1,0 +1,82 @@
+@media screen and (max-width: 768px) {
+  .top-wrapper h1 {
+    font-size: 32px;
+  }
+  .heading h2 {
+    font-size: 20px;
+  }
+  .lesson {
+    width: 50%;
+    margin-bottom: 50px;
+  }
+  .lesson-wrapper {
+    height: 1450px;
+  }
+  .lesson-icon {
+    -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+  }
+  footer {
+    text-align: center;
+    background-color: transparent;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .header-right {
+    display: none;
+  }
+  .menu-icon {
+    display: block;
+  }
+  .top-wrapper .btn {
+    width: 100%;
+  }
+  .facebook {
+    margin-bottom: 10px;
+  }
+  .top-wrapper {
+    text-align: left;
+  }
+  .top-wrapper h1 {
+    font-size: 24px;
+  }
+  .top-wrapper p {
+    font-size: 14px;
+  }
+  .lesson {
+    width: 100%;
+  }
+  .lesson-wrapper {
+    height: 1500px;
+  }
+  .lesson-icon {
+    -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+    padding-bottom: 40px;
+  }
+  .message-wrapper .btn {
+    width: 100%;
+  }
+  footer {
+    background-color: aquamarine;
+    text-align: center;
+  }
+}
+
+@media screen and (max-width: 1280px) {
+  .lesson-icon {
+    opacity: 1;
+  }
+  .lesson-icon {
+    -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+  }
+}
+
+@media screen and (max-width: 1945px) {
+  footer {
+    background-color: burlywood;
+  }
+}
+/*# sourceMappingURL=mosya-01-26-2.css.map */
